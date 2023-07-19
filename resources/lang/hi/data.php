@@ -1,0 +1,30 @@
+<?php
+
+return [
+    'home' => 'होम',
+    'dashboard' => 'डैशबोर्ड',
+    'company' => 'कंपनी',
+    'all' => 'सभी',
+    'create' => 'बनाएं',
+    'employee' => 'कर्मचारी',
+    'create_company' => 'कंपनी बनाएं',
+    'name' => 'नाम',
+    'email' => 'ईमेल',
+    'website' => 'वेबसाइट',
+    'logo' => 'लोगो',
+    'choose_file' => 'फाइलें चुनें',
+    'browse' => 'ब्राउज़',
+    'upload' => 'अपलोड',
+    'submit' => 'सबमिट',
+    'action' => 'एक्शन',
+    'id' => 'आईडी',
+    'update' => 'अपडेट',
+    'edit' => 'एडिट',
+    'delete' => 'डिलीट',
+
+    'create_employee' => 'कर्मचारी बनाएं',
+    'first' => 'पहला',
+    'last' => 'अंतिम',
+    'phone' => 'फ़ोन',
+    'choose' => 'चुनें',
+];

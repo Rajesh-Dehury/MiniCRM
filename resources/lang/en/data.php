@@ -1,0 +1,30 @@
+<?php
+
+return [
+    'home' => 'Home',
+    'dashboard' => 'Dashboard',
+    'company' => 'Company',
+    'all' => 'All',
+    'create' => 'Create',
+    'employee' => 'Employee',
+    'create_company' => 'Create Company',
+    'name' => 'Name',
+    'email' => 'Email',
+    'website' => 'Website',
+    'logo' => 'Logo',
+    'choose_file' => 'Choose File',
+    'browse' => 'Browse',
+    'upload' => 'Upload',
+    'submit' => 'Submit',
+    'action' => 'Action',
+    'id' => 'ID',
+    'update' => 'Update',
+    'edit' => 'Edit',
+    'delete' => 'Delete',
+    
+    'create_employee' => 'Create Employee',
+    'first' => 'First',
+    'last' => 'Last',
+    'phone' => 'Phone',
+    'choose' => 'Choose',
+];
